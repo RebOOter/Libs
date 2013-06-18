@@ -2,7 +2,7 @@ Libs
 ====
 ***
 Librarys and other fun staff.
-Creating by RebOOter and Ermak.One.
+Creating by RebOOter and mMorker.
 ***
 
                              8888  8888888
